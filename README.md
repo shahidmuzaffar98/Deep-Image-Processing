@@ -3,9 +3,8 @@ I'm currently working on a project in Computer Science Domain as my BTech Projec
 
 # Steps to set up the project 
 1. Install Anaconda on your system - 
-'''
-https://docs.anaconda.com/anaconda/install/linux/
-'''
+### https://docs.anaconda.com/anaconda/install/linux/
+
 3. Create your own environment with the following command -
 conda create --name your_env_name python=3.7 -y
 3. Use the pip command for installing dependecies in requirements.txt file using following command -
