@@ -12,3 +12,5 @@ I'm currently working on a project in Computer Science Domain as my BTech Projec
 <strong>conda activate your_env_name</strong>
 5. Go to project directory and check for migrations</br>
 <strong>python manage.py migrate</br>python manage.py makemigrations</strong>
+6. Run the Django server</br>
+<strong>python manage.py runserver</strong>
